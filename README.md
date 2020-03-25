@@ -1,2 +1,2 @@
 # fila
-Finance Labeling/Classification Algorithms
+Finance labeling(classification) algorithm baselines

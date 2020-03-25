@@ -34,5 +34,5 @@ jobs:
 
       - name: docker push-logout
         run: |
-          docker push tradingai/tenvs:latest
+          docker push aiminders/fila:latest
           docker logout

@@ -12,4 +12,4 @@ jobs:
       env:
         TUSHARE_TOKEN: ${{ secrets.TUSHARE_TOKEN }}
       run: |
-        docker-compose up --exit-code-from bazel bazel
+        docker-compose up --exit-code-from test test

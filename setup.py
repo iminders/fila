@@ -23,7 +23,7 @@ def read_install_requires():
 
 
 setup(name='fila',
-      version='0.0.1',
+      version='0.0.2',
       description='',
       url='https://github.com/iminders/fila',
       author='liuwen',

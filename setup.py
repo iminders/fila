@@ -12,12 +12,13 @@ def read_install_requires():
             'simplejson>=3.16.0',
             'msgpack>=0.5.6',
             'pyzmq>=16.0.0',
-            'numpy==1.16.0',
+            'numpy>=1.16.0',
             'pandas==0.25.3',
             'beautifulsoup4',
-            'matplotlib==3.1.3',
+            'matplotlib>=3.1.3',
             'scipy',
-            'tushare'
+            'tushare',
+            'pytest'
             ]
     return reqs
 
